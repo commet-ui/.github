@@ -1,8 +1,8 @@
 # Welcome to Commet - Your ERP Solution Provider
 
-![Commet Logo](link-to-your-logo-image)
+<img width="100" height="100" src="https://avatars.githubusercontent.com/u/146710802?s=400&u=fc94c63ef8bd9ec1f7c5ec4ef64b5e371d86123e&v=4" alt="logo of commet erp"/>
 
-Commet is a leading ERP (Enterprise Resource Planning) solution provider committed to delivering powerful and comprehensive software tailored to meet your business needs. Our ERP solution is designed to streamline your operations, enhance productivity, and drive growth for your organization.
+Commet is a leading ERP (Enterprise Resource Planning) solution provider committed to delivering powerful and comprehensive software tailored to meet your business needs. Our ERP solution is designed to streamline your operations, enhance productivity, and drive growth for your organization. Built for your business, not the other way around.
 
 ## About Us
 At Commet, we pride ourselves on offering a robust ERP solution with all the essential features and functionalities your business requires. We've developed a state-of-the-art ERP system that provides seamless integration of various business processes, helping you manage your resources efficiently and make informed decisions.
@@ -16,9 +16,11 @@ At Commet, we pride ourselves on offering a robust ERP solution with all the ess
 
 - **Open Source:** While we do not accept contributions from the community, we believe in transparency. Our code is open for viewing on GitHub, allowing you to explore our technology stack and coding practices.
 
+<!--
 ## Get Started
 To get started with Commet's ERP solution, you can visit our official website [here](https://www.commet-erp.com) or explore our codebase on GitHub.
 
 For inquiries, support, or customizations, please feel free to reach out to us at [contact@commet-erp.com](mailto:contact@commet-erp.com).
 
 Thank you for choosing Commet as your ERP solution provider. We look forward to helping your organization thrive!
+-->
